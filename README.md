@@ -131,7 +131,7 @@ http://localhost/event-management/
 ```
 ### 7. Open Project
 ```
-http://localhost/event-management/
+http://localhost/event-management/auth/signup.php
 ```
 ---
 
