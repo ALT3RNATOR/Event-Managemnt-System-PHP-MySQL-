@@ -6,7 +6,8 @@ This system allows users to:
 - Browse vendors
 - Place orders
 - Manage guest lists
-- Track order status  
+- Track order status
+
 
 Vendors and admins can manage operations efficiently.
 
