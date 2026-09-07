@@ -2,12 +2,6 @@
 
 A complete web-based **Event Management System** built using **PHP, MySQL, HTML, CSS, and XAMPP**.
 
-This system allows users to:
-- Browse vendors
-- Place orders
-- Manage guest lists
-- Track order status
-
 
 Vendors and admins can manage operations efficiently.
 
